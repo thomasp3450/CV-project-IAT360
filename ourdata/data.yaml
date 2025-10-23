@@ -1,0 +1,8 @@
+path: Documents/GitHub/CV-project-IAT360/ourdata
+train: Documents/GitHub/CV-project-IAT360/ourdata/images/train
+val: Documents/GitHub/CV-project-IAT360/ourdata/images/val
+nc: 3
+names:
+- Hydrant
+- Vehicle
+- Bicycle
