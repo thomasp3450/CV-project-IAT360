@@ -1,4 +1,4 @@
-path: Documents/GitHub/CV-project-IAT360/ourdata
+path: ourdata
 train: images/train
 val: images/val
 nc: 3
